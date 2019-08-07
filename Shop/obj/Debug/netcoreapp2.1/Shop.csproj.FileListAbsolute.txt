@@ -1,0 +1,6 @@
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\Splott WorkSpace\Visual Studio 2017 WorkSpace\Shop\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
